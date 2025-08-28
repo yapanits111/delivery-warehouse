@@ -3,7 +3,15 @@
 ## Overview
 This repository contains two integrated projects:
 - **Week 2: Delivery Analytics & AI Microservice**
+<img width="1862" height="753" alt="Screenshot 2025-08-28 012810" src="https://github.com/user-attachments/assets/56c1cb25-5467-4ce5-b595-873d2752bafb" />
+<img width="1819" height="886" alt="Screenshot 2025-08-28 012820" src="https://github.com/user-attachments/assets/106e7e75-61c5-4d1f-907c-5377f743abbf" />
+
 - **Week 4: Smart Warehouse & Inventory Management with Barcode Scanning, Visualization via Metabase & Chart.js**
+<img width="1867" height="884" alt="Screenshot 2025-08-28 030346" src="https://github.com/user-attachments/assets/84a328cc-e4c6-4cc1-9377-a058bffeac01" />
+<img width="1838" height="894" alt="Screenshot 2025-08-28 030457" src="https://github.com/user-attachments/assets/ed24de1a-9174-432c-968b-42daf0375770" />
+
+
+
 
 ## Folder Structure
 - `backend/` - Laravel backend for delivery and inventory APIs
@@ -14,8 +22,8 @@ This repository contains two integrated projects:
 ## Setup Instructions
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/smart-warehouse-delivery-analytics.git
-   cd smart-warehouse-delivery-analytics
+   git clone https://github.com/yapanits111/delivery-warehouse.git
+   cd delivery-warehouse
    ```
 2. **Install dependencies:**
    - Backend: `composer install`
