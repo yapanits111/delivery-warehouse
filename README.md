@@ -55,6 +55,3 @@ This repository contains two integrated projects:
 
 ## Authors
 - Daniel Peñero
-
-## License
-MIT
