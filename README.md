@@ -52,6 +52,3 @@ This repository contains two integrated projects:
 - See `flask_service/README.md` for backend microservice details
 - See `frontend/README.md` for frontend usage
 - See `backend/README.md` for Laravel API details
-
-## Authors
-- Daniel Peñero
